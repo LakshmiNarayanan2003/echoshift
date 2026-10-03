@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/echoshift/',
   build: {
     outDir: 'dist',
     sourcemap: true

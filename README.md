@@ -6,7 +6,7 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 ![Vite](https://img.shields.io/badge/Vite-5.0-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🎮 Gameplay
+## Gameplay
 
 - **Objective**: Survive as long as possible while collecting coins
 - **Controls**: Move using WASD or Arrow Keys
@@ -15,7 +15,7 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 - **Scoring**: Collect coins to earn points (+10 per coin)
 - **Progression**: More ghosts spawn over time, making survival increasingly difficult
 
-## ✨ Features
+## Features
 
 - **Neon Aesthetic**: Dark cyberpunk-style visuals with glowing effects
 - **Smooth Animations**: Fluid player movement and ghost replay
@@ -25,7 +25,7 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 - **No External Assets**: All graphics generated programmatically with HTML5 Canvas
 - **Modular Architecture**: Clean, maintainable TypeScript codebase
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ The built files will be in the `dist/` directory.
 npm run preview
 ```
 
-## 🌐 Deploying to GitHub Pages
+## Deploying to GitHub Pages
 
 ### Option 1: Manual Deployment
 
@@ -134,7 +134,7 @@ npm run preview
 
 Your site will now automatically deploy on every push to the main branch.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 echoshift/
@@ -152,7 +152,7 @@ echoshift/
 └── README.md            # This file
 ```
 
-## 🎯 Game Mechanics
+## Game Mechanics
 
 ### Ghost System
 
@@ -176,14 +176,14 @@ echoshift/
 - More ghosts = more movement patterns to avoid
 - Survival becomes exponentially harder
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **TypeScript**: Type-safe JavaScript
 - **Vite**: Fast build tool and dev server
 - **HTML5 Canvas**: High-performance 2D rendering
 - **No external libraries**: Pure vanilla JS/TS implementation
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -196,7 +196,7 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
-## 🎮 Future Enhancements
+## Future Enhancements
 
 Potential features for future versions:
 
