@@ -5,8 +5,8 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 ![EchoShift](https://img.shields.io/badge/TypeScript-5.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.0-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-## Gameplay
+ 
+## Gameplay 
 
 - **Objective**: Survive as long as possible while collecting coins
 - **Controls**: Move using WASD or Arrow Keys
