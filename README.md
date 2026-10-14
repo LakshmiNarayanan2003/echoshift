@@ -30,7 +30,6 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 - Git
 
 ### Local Development
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/echoshift.git
