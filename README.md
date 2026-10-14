@@ -7,7 +7,6 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 ![License](https://img.shields.io/badge/License-MIT-green)
  
 ## Gameplay 
-
 - **Objective**: Survive as long as possible while collecting coins
 - **Controls**: Move using WASD or Arrow Keys
 - **Mechanic**: Every 10 seconds, a ghost spawns and replays your movements from the previous 10 seconds
@@ -16,7 +15,6 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 - **Progression**: More ghosts spawn over time, making survival increasingly difficult
 
 ## Features 
-
 - **Neon Aesthetic**: Dark cyberpunk-style visuals with glowing effects
 - **Smooth Animations**: Fluid player movement and ghost replay
 - **Responsive Design**: Automatically adapts to any screen size
