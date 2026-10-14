@@ -15,7 +15,7 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 - **Scoring**: Collect coins to earn points (+10 per coin)
 - **Progression**: More ghosts spawn over time, making survival increasingly difficult
 
-## Features
+## Features 
 
 - **Neon Aesthetic**: Dark cyberpunk-style visuals with glowing effects
 - **Smooth Animations**: Fluid player movement and ghost replay
