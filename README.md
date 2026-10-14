@@ -24,11 +24,10 @@ A browser-based survival game where you must avoid ghosts that replay your past 
 - **Modular Architecture**: Clean, maintainable TypeScript codebase
 
 ## Getting Started
-
 ### Prerequisites
-
 - Node.js (v18 or higher recommended)
 - npm or yarn
+- Git
 
 ### Local Development
 
